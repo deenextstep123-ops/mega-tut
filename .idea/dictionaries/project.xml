@@ -2,6 +2,7 @@
   <dictionary name="project">
     <words>
       <w>endblock</w>
+      <w>endwith</w>
     </words>
   </dictionary>
 </component>
